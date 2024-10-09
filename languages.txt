@@ -1,3 +1,4 @@
 python
 galego
 ingles
+japones
